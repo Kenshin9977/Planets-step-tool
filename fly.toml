@@ -5,7 +5,7 @@ kill_timeout = 5
 processes = []
 
 [env]
-  FLET_SESSION_TIMEOUT = "1800"
+  FLET_SESSION_TIMEOUT = "0"
 
 [http_service]
   internal_port = 8000
